@@ -103,5 +103,12 @@ Enter second number: 7.5
 
 Do you want to perform another operation? (Y/N): N
 
-![Screenshot 2025-05-26 104142](https://github.com/user-attachments/assets/dbc88576-56cf-4570-96ab-f777a3cc8ace)
+![Screenshot 2025-05-26 104142](https://github.com/user-attachments/assets/7a38bb68-7760-44a0-b586-1a04504ecafb)
+
+![Screenshot 2025-05-26 104159](https://github.com/user-attachments/assets/28c2d72b-2e5c-4923-8eae-e44e4dccd7eb)
+
+![Screenshot 2025-05-26 104232](https://github.com/user-attachments/assets/22bde920-4c76-4e5a-83cd-ba243896d073)
+
+
+
 
