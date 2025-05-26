@@ -82,9 +82,7 @@ Scientific_Calculator/
 3. **Run the Application**:
     ```bash
     java ScientificCalculator
-    ```
 
----
 
 ## 🧠 Sample Usage
 
