@@ -88,7 +88,7 @@ Scientific_Calculator/
 ----------------------------------------------------------------
                  Scientific Calculator
 ----------------------------------------------------------------
-
+```text
 Please select an operation:
 ----------------------------------------------------------------
 1. Addition (+)
@@ -102,3 +102,6 @@ Enter second number: 7.5
 12.500000 + 7.500000 = 20.000000
 
 Do you want to perform another operation? (Y/N): N
+
+![Screenshot 2025-05-26 104142](https://github.com/user-attachments/assets/dbc88576-56cf-4570-96ab-f777a3cc8ace)
+
