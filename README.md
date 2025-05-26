@@ -3,6 +3,9 @@
 # 📊 Scientific Calculator – Core Java Project
 
 Welcome to the **Scientific Calculator**, a beginner-to-intermediate level Java console application that performs both basic and advanced scientific mathematical operations. Designed to help students and enthusiasts explore Java programming and object-oriented principles.
+![Screenshot 2025-05-26 104142](https://github.com/user-attachments/assets/3711d4bf-c10f-43ca-aa55-b3134238827a)
+![Screenshot 2025-05-26 104159](https://github.com/user-attachments/assets/3a9329d4-aa49-4e3f-8dd5-994b92ba51a2)
+![Screenshot 2025-05-26 104232](https://github.com/user-attachments/assets/6e03ea62-f664-4bc9-94d5-b7dae13c6f8a)
 
 ---
 
@@ -102,6 +105,3 @@ Enter second number: 7.5
 12.500000 + 7.500000 = 20.000000
 
 Do you want to perform another operation? (Y/N): N
-
-
-![Screenshot 2025-05-26 104142](https://github.com/user-attachments/assets/2f8d3caa-7554-49a9-9b14-c213a3b9ec24)
