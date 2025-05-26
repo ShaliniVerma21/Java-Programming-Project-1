@@ -88,13 +88,13 @@ Scientific_Calculator/
     ```bash
     java ScientificCalculator
 
-
 ## 🧠 Sample Usage
 
+```text
 ----------------------------------------------------------------
                  Scientific Calculator
 ----------------------------------------------------------------
-```text
+
 Please select an operation:
 ----------------------------------------------------------------
 1. Addition (+)
