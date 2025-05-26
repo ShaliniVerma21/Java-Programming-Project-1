@@ -50,8 +50,13 @@ This calculator supports the following functionalities:
 ## 📁 Project Structure
 
 Scientific_Calculator/
+
+
 ├── ScientificCalculator.java
+
+
 ├── README.md
+
 
 
 
